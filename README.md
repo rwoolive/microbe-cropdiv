@@ -1,5 +1,7 @@
 # microbe-cropdiv
-Microbial sequence analysis for Wooliver et al. submitted to Frontiers
+Microbial sequence analysis for Wooliver et al. (2022) Frontiers in Microbiology
+https://doi.org/10.3389/fmicb.2022.854247
+
 
 Notes: 
 
